@@ -1,2 +1,1 @@
-# aula_javascript
-introdução ao JavaScript
+Aplicação de juros em javaScript
